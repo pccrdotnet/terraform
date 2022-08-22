@@ -1,9 +1,10 @@
 variable "location" {
-    default = "eastus"
+  type = string
+  default = "eastus"
 }
 variable "rgname" {
   type = string
-  default = "az-rg-secpro-dev"
 }
 variable "kvname" {
+  type = string
 }
