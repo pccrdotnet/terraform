@@ -1,3 +1,7 @@
 ProjectSec/.terraform.lock.hcl
 ProjectSec/.terraform/modules/modules.json
 ProjectSec/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.0.0/windows_amd64/terraform-provider-azurerm_v3.0.0_x5.exe
+ProjectSec/terraform.tfstate
+ProjectSec/.terraform.tfstate.lock.info
+ProjectSec/terraform.tfstate.backup
+ProjectSec/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.0.0/windows_386/terraform-provider-azurerm_v3.0.0_x5.exe

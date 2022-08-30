@@ -1,3 +1,3 @@
-location = "eastus"
-rgname  = "az-rg-secprototype-dev"
-kvname = "az-kv-secprototype-dev"
+location = "canadacentral"
+rgname  = "az-rg-secprototype2-dev"
+kvname = "az-kv-seefvx12-dev"
